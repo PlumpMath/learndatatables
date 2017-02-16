@@ -1,0 +1,4 @@
+(ns learndatatable.db)
+
+(def default-db
+  {:name "re-frame"})
